@@ -1,0 +1,1 @@
+if global.game_over then game_restart()
