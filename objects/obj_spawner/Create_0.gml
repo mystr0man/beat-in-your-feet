@@ -1,3 +1,12 @@
+//restarts a level every time it is moved to 
+if (global.do_restart) {
+    global.do_restart = false;
+    room_restart();
+}
+
+
+
+
 //spawn_windows = [100, 40, 80, 65];
 
 

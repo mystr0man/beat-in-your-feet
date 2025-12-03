@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":0.365636,
+  "duration":0.360636,
   "name":"snd_push",
   "parent":{
     "name":"Sounds",
