@@ -1,4 +1,6 @@
-var fraction_score = (count_in_length - total_hits)/count_in_length;
+//var fraction_score = (count_in_length - total_hits)/count_in_length;
+
+var fraction_score = number_spawned/count_in_length;
 if (txtname == "sugarplum.txt") {
 	audio_stop_sound(snd_sugarplum);
 	global.sugarplum_high_score = round(fraction_score * 100);
@@ -13,4 +15,4 @@ if (txtname == "sugarplum.txt") {
 	show_debug_message("lastpoint high score: " + string(global.lastpoint_high_score));
 }
 
-room_goto(rm_levelselect);
+alarm[2] = 1; //just to allow things to process

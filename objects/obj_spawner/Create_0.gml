@@ -4,7 +4,9 @@ if (global.do_restart) {
     room_restart();
 }
 
+mistakes_remaining = 25;
 
+number_spawned = 0;
 
 
 //spawn_windows = [100, 40, 80, 65];

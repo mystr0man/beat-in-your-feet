@@ -4,5 +4,5 @@
 // new plan, hit-count tracking: 
 if (!other.hit) {
 	other.hit = true;
-	self.hits_taken++;
+	level_handler.mistakes_remaining--;
 }
