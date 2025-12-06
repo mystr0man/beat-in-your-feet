@@ -27,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_marker",
-    "path":"sprites/spr_marker/spr_marker.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":false,
 }
