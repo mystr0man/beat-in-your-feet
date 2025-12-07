@@ -1,6 +1,7 @@
 # beat-in-your-feet
-ITCS 4232 Capstone Game Project – a rhythm-based platformer
+ITCS 4232 Capstone Game Project – A rhythm-based platforming game about having a pep in your step.
 
+Beat in your Feet is a rhythm-based autorunner platformer, drawing inspiration from titles like Guitar Hero, Geometry Dash, Celeste's b-side levels, and Trombone Champ, with an emphasis on exploring various facets of musicality. Players are tasked with training their musical ear to be able to jump over obstacles of various sizes, all while matching the rhythm, accent, or beat of music of various genres (such as hip-hop, classical, and electronic). There's no brute force here; you either learn how to connect with the music, or you fail. 
 
 
 -----CREDITS-----
