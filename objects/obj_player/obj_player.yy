@@ -52,6 +52,7 @@
     {"$GMObjectProperty":"v1","%Name":"exited_screen","filters":[],"listItems":[],"multiselect":false,"name":"exited_screen","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"False","varType":3,},
     {"$GMObjectProperty":"v1","%Name":"level_handler","filters":[],"listItems":[],"multiselect":false,"name":"level_handler","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"","varType":5,},
     {"$GMObjectProperty":"v1","%Name":"hits_taken","filters":[],"listItems":[],"multiselect":false,"name":"hits_taken","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":0,},
+    {"$GMObjectProperty":"v1","%Name":"spawned_banner","filters":[],"listItems":[],"multiselect":false,"name":"spawned_banner","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"False","varType":3,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

@@ -1,0 +1,68 @@
+{
+  "$GMRoom":"v1",
+  "%Name":"rm_credits",
+  "creationCodeFile":"",
+  "inheritCode":false,
+  "inheritCreationOrder":false,
+  "inheritLayers":false,
+  "instanceCreationOrder":[
+    {"name":"inst_2AA8E74F","path":"rooms/rm_credits/rm_credits.yy",},
+  ],
+  "isDnd":false,
+  "layers":[
+    {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
+        {"$GMRTextItem":"v1","%Name":"text_4BA89F32","alignment":257,"charSpacing":9.0,"colour":4294967295,"fontId":{"name":"fnt_antpolt","path":"fonts/fnt_antpolt/fnt_antpolt.yy",},"frameH":0.0,"frameW":0.0,"frozen":false,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"lineSpacing":0.0,"name":"text_4BA89F32","paragraphSpacing":0.0,"resourceType":"GMRTextItem","resourceVersion":"2.0","rotation":0.0,"scaleX":1.3274713,"scaleY":1.3274713,"text":"           C R E D I T S          ","wrap":false,"x":10.0,"xorigin":0.0,"y":32.0,"yorigin":0.0,},
+        {"$GMRTextItem":"v1","%Name":"text_F4B369D","alignment":1,"charSpacing":0.0,"colour":4294967295,"fontId":{"name":"fnt_antpolt_small","path":"fonts/fnt_antpolt_small/fnt_antpolt_small.yy",},"frameH":0.0,"frameW":0.0,"frozen":false,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"lineSpacing":0.0,"name":"text_F4B369D","paragraphSpacing":0.0,"resourceType":"GMRTextItem","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"text":"All programming by Devdan Ferguson, and all assets also by Ferguson unless specified otherwise. ","wrap":false,"x":60.0,"xorigin":0.0,"y":110.0,"yorigin":0.0,},
+        {"$GMRTextItem":"v1","%Name":"text_4B513197","alignment":1,"charSpacing":0.0,"colour":4294967295,"fontId":{"name":"fnt_antpolt_small","path":"fonts/fnt_antpolt_small/fnt_antpolt_small.yy",},"frameH":0.0,"frameW":0.0,"frozen":false,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"lineSpacing":0.0,"name":"text_4B513197","paragraphSpacing":0.0,"resourceType":"GMRTextItem","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"text":"All sourced assets used and/or modified under Creative Commons and/or fair use. ","wrap":false,"x":138.0,"xorigin":0.0,"y":148.0,"yorigin":0.0,},
+        {"$GMRTextItem":"v1","%Name":"text_7E0CCEA1","alignment":1,"charSpacing":0.0,"colour":4294967295,"fontId":{"name":"fnt_antpolt_small","path":"fonts/fnt_antpolt_small/fnt_antpolt_small.yy",},"frameH":0.0,"frameW":0.0,"frozen":false,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"lineSpacing":0.0,"name":"text_7E0CCEA1","paragraphSpacing":0.0,"resourceType":"GMRTextItem","resourceVersion":"2.0","rotation":0.0,"scaleX":0.93043476,"scaleY":1.0,"text":"---TYPEFACES---\nCronde, by Fatoni Nurman\nAntykwa Poltawskiego, by Adam Poltawski\nCochin, by Georges Peignot\nPalatino, by Hermann Zapf","wrap":false,"x":363.0,"xorigin":0.0,"y":512.0,"yorigin":0.0,},
+        {"$GMRTextItem":"v1","%Name":"text_4B1269E7","alignment":1,"charSpacing":0.0,"colour":4294967295,"fontId":{"name":"fnt_antpolt_small","path":"fonts/fnt_antpolt_small/fnt_antpolt_small.yy",},"frameH":0.0,"frameW":0.0,"frozen":false,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"lineSpacing":0.0,"name":"text_4B1269E7","paragraphSpacing":0.0,"resourceType":"GMRTextItem","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"text":"---VISUAL ASSETS AND SPRITES---\n1-1 note semibreve, via Wikimedia Commons\nQuarter rest musical note vector image, via Freesvg.org\nFree Swordsman 1-3 Level Pixel Top-Down Sprite Character Pack, via CraftPix.net","wrap":false,"x":135.0,"xorigin":0.0,"y":224.0,"yorigin":0.0,},
+        {"$GMRTextItem":"v1","%Name":"text_4FE2E8D0","alignment":1,"charSpacing":0.0,"colour":4294967295,"fontId":{"name":"fnt_antpolt_small","path":"fonts/fnt_antpolt_small/fnt_antpolt_small.yy",},"frameH":0.0,"frameW":0.0,"frozen":false,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"lineSpacing":0.0,"name":"text_4FE2E8D0","paragraphSpacing":0.0,"resourceType":"GMRTextItem","resourceVersion":"2.0","rotation":0.0,"scaleX":0.93043476,"scaleY":1.0,"text":"---MUSIC---\n\"200k\" by VintageMan Beats, via YouTube\n\"Dance of the Sugar Plum Fairy\" by Kevin MacLeod, via YouTube\n\"The Last Point\" by raspberrymusic, via pixabay","wrap":false,"x":253.0,"xorigin":0.0,"y":367.5,"yorigin":0.0,},
+        {"$GMRTextItem":"v1","%Name":"text_24C216B4","alignment":0,"charSpacing":0.0,"colour":4294967295,"fontId":{"name":"fnt_antpolt_small","path":"fonts/fnt_antpolt_small/fnt_antpolt_small.yy",},"frameH":0.0,"frameW":0.0,"frozen":false,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"lineSpacing":0.0,"name":"text_24C216B4","paragraphSpacing":0.0,"resourceType":"GMRTextItem","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"text":"Back to Title Screen","wrap":false,"x":82.0,"xorigin":0.0,"y":528.0,"yorigin":0.0,},
+      ],"depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Assets_1","properties":[],"resourceType":"GMRAssetLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
+    {"$GMRInstanceLayer":"","%Name":"Instances","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
+        {"$GMRInstance":"v1","%Name":"inst_2AA8E74F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2AA8E74F","objectId":{"name":"obj_menubutton","path":"objects/obj_menubutton/obj_menubutton.yy",},"properties":[
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_menubutton","path":"objects/obj_menubutton/obj_menubutton.yy",},"propertyId":{"name":"purpose","path":"objects/obj_menubutton/obj_menubutton.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"2",},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.3265306,"x":32.0,"y":480.0,},
+      ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
+    {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"spr_creditsbackground","path":"sprites/spr_creditsbackground/spr_creditsbackground.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
+  ],
+  "name":"rm_credits",
+  "parent":{
+    "name":"Rooms",
+    "path":"folders/Rooms.yy",
+  },
+  "parentRoom":null,
+  "physicsSettings":{
+    "inheritPhysicsSettings":false,
+    "PhysicsWorld":false,
+    "PhysicsWorldGravityX":0.0,
+    "PhysicsWorldGravityY":10.0,
+    "PhysicsWorldPixToMetres":0.1,
+  },
+  "resourceType":"GMRoom",
+  "resourceVersion":"2.0",
+  "roomSettings":{
+    "Height":648,
+    "inheritRoomSettings":false,
+    "persistent":false,
+    "Width":1152,
+  },
+  "sequenceId":null,
+  "views":[
+    {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
+    {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
+    {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
+    {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
+    {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
+    {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
+    {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
+    {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
+  ],
+  "viewSettings":{
+    "clearDisplayBuffer":true,
+    "clearViewBackground":false,
+    "enableViews":false,
+    "inheritViewSettings":false,
+  },
+  "volume":1.0,
+}

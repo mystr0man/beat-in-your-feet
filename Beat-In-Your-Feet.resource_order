@@ -23,6 +23,7 @@
   "ResourceOrderSettings":[
     {"name":"fnt_antpolt_small","order":2,"path":"fonts/fnt_antpolt_small/fnt_antpolt_small.yy",},
     {"name":"fnt_highscore","order":1,"path":"fonts/fnt_highscore/fnt_highscore.yy",},
+    {"name":"obj_countdown","order":16,"path":"objects/obj_countdown/obj_countdown.yy",},
     {"name":"obj_death","order":6,"path":"objects/obj_death/obj_death.yy",},
     {"name":"obj_failbutton","order":15,"path":"objects/obj_failbutton/obj_failbutton.yy",},
     {"name":"obj_global_variable_starter","order":13,"path":"objects/obj_global_variable_starter/obj_global_variable_starter.yy",},
@@ -36,7 +37,9 @@
     {"name":"obj_OLDcontroller","order":1,"path":"objects/obj_OLDcontroller/obj_OLDcontroller.yy",},
     {"name":"obj_player","order":5,"path":"objects/obj_player/obj_player.yy",},
     {"name":"obj_spawner","order":9,"path":"objects/obj_spawner/obj_spawner.yy",},
+    {"name":"obj_successbanner","order":17,"path":"objects/obj_successbanner/obj_successbanner.yy",},
     {"name":"rm_boombap","order":4,"path":"rooms/rm_boombap/rm_boombap.yy",},
+    {"name":"rm_credits","order":9,"path":"rooms/rm_credits/rm_credits.yy",},
     {"name":"rm_failscreen","order":8,"path":"rooms/rm_failscreen/rm_failscreen.yy",},
     {"name":"rm_lastpoint","order":6,"path":"rooms/rm_lastpoint/rm_lastpoint.yy",},
     {"name":"rm_levelselect","order":5,"path":"rooms/rm_levelselect/rm_levelselect.yy",},
@@ -48,6 +51,8 @@
     {"name":"snd_push","order":3,"path":"sounds/snd_push/snd_push.yy",},
     {"name":"snd_sugarplum","order":4,"path":"sounds/snd_sugarplum/snd_sugarplum.yy",},
     {"name":"spr_bars","order":3,"path":"sprites/spr_bars/spr_bars.yy",},
+    {"name":"spr_countdown","order":20,"path":"sprites/spr_countdown/spr_countdown.yy",},
+    {"name":"spr_creditsbackground","order":4,"path":"sprites/spr_creditsbackground/spr_creditsbackground.yy",},
     {"name":"spr_death_medium","order":14,"path":"sprites/spr_death_medium/spr_death_medium.yy",},
     {"name":"spr_death_short","order":13,"path":"sprites/spr_death_short/spr_death_short.yy",},
     {"name":"spr_death_tall","order":5,"path":"sprites/spr_death_tall/spr_death_tall.yy",},
@@ -59,5 +64,6 @@
     {"name":"spr_mainbackground","order":2,"path":"sprites/spr_mainbackground/spr_mainbackground.yy",},
     {"name":"spr_newplayer","order":19,"path":"sprites/spr_newplayer/spr_newplayer.yy",},
     {"name":"spr_selectbackground","order":1,"path":"sprites/spr_selectbackground/spr_selectbackground.yy",},
+    {"name":"spr_successbanner","order":21,"path":"sprites/spr_successbanner/spr_successbanner.yy",},
   ],
 }

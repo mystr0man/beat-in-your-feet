@@ -6,6 +6,8 @@ if (global.do_restart) {
 
 mistakes_remaining = 25;
 
+instance_create_layer(room_width / 2, room_height / 2, "Instances", obj_countdown);
+
 number_spawned = 1;//+1 due to the song starting count in 
 
 //save last level (in case of failure)

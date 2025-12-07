@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"25c6a071-ba41-4c37-84f6-ce2b7478eb5e","name":"25c6a071-ba41-4c37-84f6-ce2b7478eb5e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"f29bc1fe-8756-4bcb-9b71-5e7f1e7ef063","name":"f29bc1fe-8756-4bcb-9b71-5e7f1e7ef063","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"","%Name":"71ab54a2-e0d8-4d0a-a2ae-62df1fa20b9c","name":"71ab54a2-e0d8-4d0a-a2ae-62df1fa20b9c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"","%Name":"c4271338-bdc1-4a94-9caf-4c0f8eb93d0c","name":"c4271338-bdc1-4a94-9caf-4c0f8eb93d0c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
@@ -71,8 +71,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"25c6a071-ba41-4c37-84f6-ce2b7478eb5e","path":"sprites/spr_levelbutton/spr_levelbutton.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"6e3a8809-ae26-408e-9e12-0c7e160d5d55","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f29bc1fe-8756-4bcb-9b71-5e7f1e7ef063","path":"sprites/spr_levelbutton/spr_levelbutton.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"f2a48610-a2f5-465d-b4bb-281793abcc20","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"71ab54a2-e0d8-4d0a-a2ae-62df1fa20b9c","path":"sprites/spr_levelbutton/spr_levelbutton.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"4360bed3-b639-4e71-9cc9-c43e4b546d52","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
