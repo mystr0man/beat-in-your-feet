@@ -3,7 +3,7 @@
 var fraction_score = number_spawned/count_in_length;
 if (txtname == "sugarplum.txt") {
 	audio_stop_sound(snd_sugarplum);
-	global.sugarplum_high_score = round(fraction_score * 100);
+	global.sugarplum_high_score = round(fraction_score * 100); 
 	show_debug_message("sugarplum high score: " + string(global.sugarplum_high_score));
 } else if (txtname == "boombap.txt") {
 	audio_stop_sound(snd_boombap);

@@ -6,7 +6,16 @@ if (global.do_restart) {
 
 mistakes_remaining = 25;
 
-number_spawned = 0;
+number_spawned = 1;//+1 due to the song starting count in 
+
+//save last level (in case of failure)
+if (txtname == "sugarplum.txt") {
+	global.last_level = rm_sugarplum;
+} else if (txtname == "boombap.txt") {
+	global.last_level = rm_boombap;
+} else if (txtname == "lastpoint.txt") {
+	global.last_level = rm_lastpoint;
+}
 
 
 //spawn_windows = [100, 40, 80, 65];

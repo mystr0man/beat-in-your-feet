@@ -1,0 +1,1 @@
+wait_after_hit = true;

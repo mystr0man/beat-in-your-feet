@@ -6,3 +6,5 @@ is_jumping = false;
 hits_taken = 0;
 
 level_handler = instance_find(obj_spawner, 0);
+
+image_speed = 1;

@@ -57,8 +57,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_player",
-    "path":"sprites/spr_player/spr_player.yy",
+    "name":"spr_newplayer",
+    "path":"sprites/spr_newplayer/spr_newplayer.yy",
   },
   "spriteMaskId":null,
   "visible":true,

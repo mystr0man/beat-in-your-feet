@@ -18,6 +18,7 @@ if (keyboard_check(vk_space) && !level_beat) {
 		vspeed = jump_height;
 		jump_timer = 0;
 		is_jumping = true;
+		image_speed = 0; //pause run animation while jumping
 	}
 }
 
@@ -28,6 +29,7 @@ if (is_jumping) {
 		jump_timer++;
 	} else {
 		is_jumping = false;
+		image_speed = 1;
 	}
 }
 	

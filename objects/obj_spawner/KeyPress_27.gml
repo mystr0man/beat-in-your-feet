@@ -9,13 +9,15 @@ room_goto(rm_levelselect);
 */
 
 // DEV EXIT LEVEL FUCTIONALITY
+/*
 total_hits = instance_find(obj_player, 0).hits_taken;
 
 alarm[1] = 1;
+*/
 
 
 // FINAL FUNCTIONALITY – EXIT WITHOUT RECORDING SCORE
-/*
+
 if (txtname == "sugarplum.txt") {
 	audio_stop_sound(snd_sugarplum);
 } else if (txtname == "boombap.txt") {
@@ -25,4 +27,3 @@ if (txtname == "sugarplum.txt") {
 }
 
 room_goto(rm_levelselect);
-*/
