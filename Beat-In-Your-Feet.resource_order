@@ -48,7 +48,6 @@
     {"name":"scr_startLevel","order":1,"path":"scripts/scr_startLevel/scr_startLevel.yy",},
     {"name":"snd_boombap","order":5,"path":"sounds/snd_boombap/snd_boombap.yy",},
     {"name":"snd_lastpoint","order":6,"path":"sounds/snd_lastpoint/snd_lastpoint.yy",},
-    {"name":"snd_push","order":3,"path":"sounds/snd_push/snd_push.yy",},
     {"name":"snd_sugarplum","order":4,"path":"sounds/snd_sugarplum/snd_sugarplum.yy",},
     {"name":"spr_bars","order":3,"path":"sprites/spr_bars/spr_bars.yy",},
     {"name":"spr_countdown","order":20,"path":"sprites/spr_countdown/spr_countdown.yy",},
